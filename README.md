@@ -11,19 +11,14 @@
 <h3 align="left">👩‍💻 About Me
 </h3>
 
-<p align="left">I am a motivated and continuously learning developer with a strong focus on front-end development. While my main passion lies in working with technologies like HTML, CSS, JavaScript, and React, I am also capable of handling back-end tasks using Node.js when needed.
+<p align="left">I’m a dedicated front-end developer, constantly learning and improving my skills. My focus is on HTML, CSS, JavaScript, and React, though I’m also capable of working with Node.js for back-end tasks.
 
-I have completed a full-stack developer course, where I gained practical experience in:
+I’ve completed a full-stack developer course, gaining experience in:
 
-HTML & CSS: Crafting responsive and modern web designs using Flexbox, forms, and various decorative elements.
-JavaScript: Mastering core concepts such as arrays, objects, DOM manipulation, asynchronous programming (Promises, async/await), and HTTP requests.
-React: Building interactive and dynamic web applications with React hooks, Redux Toolkit for state management, and React Router for navigation.
-Node.js: Developing RESTful APIs using Express and MongoDB, implementing authentication, and managing data validation and pagination.
-TypeScript: Working with TypeScript for reliable, strongly-typed code in both front-end and back-end projects.
-I am proficient in German at the B1 level and English at the A2 level, with Ukrainian and Russian as my native languages. Though I am not yet a professional, I dedicate myself to learning and improving every day, refining my skills across both front-end and back-end technologies.
-
-I am eager to join a company that values continuous learning, collaboration, and innovation, where I can grow while contributing to exciting projects. If your company seeks a developer with a passion for front-end and a readiness to tackle full-stack challenges, I would love to be part of your team.
-
+Front-end: Responsive design, React hooks, Redux, and state management.
+Back-end: REST APIs, MongoDB, authentication, and data handling with Node.js.
+TypeScript: Applying strong typing for robust code.
+I’m proficient in German (B1) and English (A2), with Ukrainian and Russian as my native languages. I’m eager to work in an innovative environment that values learning and teamwork.
 </p>
 ###
 
