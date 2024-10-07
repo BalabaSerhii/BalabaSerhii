@@ -33,18 +33,13 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' color="red" alt='linkedin' height='40'>](https://www.linkedin.com/in/serhii-balaba/)  
 
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 My Skill Set:</h3>
 
 ###
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
+<div align="left">
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -76,20 +71,7 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 
 </td><td valign="top" width="33%">
 
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  
-
-</div> -->
+</div>
 
 ###
 
@@ -98,20 +80,3 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 </div>
 
 ###
-
-<!--
-
-**BalabaSerhii/BalabaSerhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
