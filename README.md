@@ -15,10 +15,12 @@
 
 I’ve completed a <strong>full-stack developer</strong> course, gaining experience in:
 
-<br><strong>Front-end:</strong> Responsive design, React hooks, Redux, and state management.
+<strong>Front-end:</strong> Responsive design, React hooks, Redux, and state management.
 <br><strong>Back-end:</strong> REST APIs, MongoDB, authentication, and data handling with Node.js.
 <br><strong>TypeScript:</strong> Applying strong typing for robust code.
+
 <br>I’m proficient in <strong>German (B1)</strong> and <strong>English (A2)</strong>, with Ukrainian and Russian as my native languages. I’m eager to work in an innovative environment that values learning and teamwork.
+
 </p>
 
 ###
@@ -46,7 +48,6 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
-
 
 </div>
 
