@@ -59,8 +59,6 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 
 ###
 
-<br/>
-
 <div align="left">
 
 ### Frontend
