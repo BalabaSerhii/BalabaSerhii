@@ -30,7 +30,6 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 
 ###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' color="red" alt='linkedin' height='40'>](https://www.linkedin.com/in/serhii-balaba/)  
 
 
 <h3 align="left">🛠 My Skill Set:</h3>
@@ -40,7 +39,9 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 <br/>  
 
 <div align="left">
+
 ### Frontend  
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -65,7 +66,6 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
@@ -74,6 +74,7 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 </div>
 
 ###
+
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balabaserhii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
