@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
-
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
+<!--
 
 **BalabaSerhii/BalabaSerhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
