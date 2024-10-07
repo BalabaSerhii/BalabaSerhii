@@ -30,7 +30,7 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 
 ###
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/serhii-balaba//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/serhii-balaba/)  
 
 <h3 align="left">🛠 Технологии:</h3>
 
