@@ -45,10 +45,13 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 <a href="https://instagram.com/sergeybalaba" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
+<a href="mailto:balabaserhii@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+</a>
 
+</div>
 
-<br/>  
+<br/>
 
 ###
 
@@ -94,6 +97,7 @@ I’ve completed a <strong>full-stack developer</strong> course, gaining experie
 <br>
 
 ###
+
 <br>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=balabaserhii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
