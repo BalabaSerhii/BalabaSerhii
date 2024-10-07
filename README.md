@@ -11,15 +11,16 @@
 <h3 align="left">👩‍💻 About Me
 </h3>
 
-<p align="left">I’m a dedicated front-end developer, constantly learning and improving my skills. My focus is on HTML, CSS, JavaScript, and React, though I’m also capable of working with Node.js for back-end tasks.
+<p align="left">I’m a dedicated front-end developer, constantly learning and improving my skills. My focus is on <strong> HTML, CSS, JavaScript,</strong> and <strong>React</strong>, though I’m also capable of working with <strong>Node.js</strong> for back-end tasks.
 
-I’ve completed a full-stack developer course, gaining experience in:
+I’ve completed a <strong>full-stack developer</strong> course, gaining experience in:
 
-Front-end: Responsive design, React hooks, Redux, and state management.
-Back-end: REST APIs, MongoDB, authentication, and data handling with Node.js.
-TypeScript: Applying strong typing for robust code.
-I’m proficient in German (B1) and English (A2), with Ukrainian and Russian as my native languages. I’m eager to work in an innovative environment that values learning and teamwork.
+<strong>Front-end:</strong> Responsive design, React hooks, Redux, and state management.
+<strong>Back-end:</strong> REST APIs, MongoDB, authentication, and data handling with Node.js.
+<strong>TypeScript:</strong> Applying strong typing for robust code.
+I’m proficient in <strong>German (B1)</strong> and <strong>English (A2)</strong>, with Ukrainian and Russian as my native languages. I’m eager to work in an innovative environment that values learning and teamwork.
 </p>
+
 ###
 
 <p align="center">
