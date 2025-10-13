@@ -6,7 +6,7 @@
 
 ###
 
-## Hi👋 My name is Sergey
+## Hi👋 My name is Serhii
 
 <h3 align="left">👩‍💻 About Me
 </h3>
